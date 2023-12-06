@@ -37,8 +37,7 @@ This system is a basic illustration of a console-based passenger and ticket mana
 - 📝 Input
 - 📋 Display
 
-### Author
-
+## Author 👨‍💻
 - [CarlosEduardoBr04](https://github.com/CarlosEduardoBr04) 🚀
 
 Feel free to explore, modify, and use this system for learning purposes or as a starting point for more sophisticated applications! 🚀
